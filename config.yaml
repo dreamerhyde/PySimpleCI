@@ -1,0 +1,18 @@
+url: localhost
+port: 8080
+repos:
+  repoA:
+    branch: master
+    git: git@github.com:dreamerhyde/repoA.git
+    remote: origin
+    path: /Users/albert/github/repoA
+  repob:
+    branch: dev
+    git: git@github.com:dreamerhyde/repoB.git
+    remote: origin
+    path: /Users/albert/github/repoB
+  repoC:
+    branch: staging
+    git: git@github.com:dreamerhyde/repoB.git
+    remote: origin
+    path: /Users/albert/github/repoC
